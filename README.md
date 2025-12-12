@@ -1,3 +1,9 @@
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge)
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge)
+![Made in Mozambique](https://img.shields.io/badge/Made%20in-Mozambique-009639?style=for-the-badge)
+
 # 🤖 Autonomous Robot Development - Work in Progress
 
 ## 🎯 Project Status: ACTIVE DEVELOPMENT
